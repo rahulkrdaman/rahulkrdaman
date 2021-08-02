@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kr-daman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kr-daman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rahul-kr-daman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul-kr-daman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12194865/rahul-kr-daman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul-kr-daman" height="30" width="40" /></a>
 <a href="https://twitter.com/rahul_kr_daman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_kr_daman" height="30" width="40" /></a>
 <a href="https://fb.com/rahulkrdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulkrdaman" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulkrdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulkrdaman" height="30" width="40" /></a>
