@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN, MEAN, MEVEN Stack Project**
+- 👯 I’m looking to collaborate on **MERN, MEAN, MEVN Stack Project**
 
 - 🤝 I’m looking for help with **JavaScript**
 
